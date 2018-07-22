@@ -1,0 +1,22 @@
+1.Deep mind
+
+https://deepmind.com/research/open-source/open-source-code/
+
+2.How to build your own AlphaZero AI using Python and Keras
+
+https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188
+
+3.Building Our Own Version of AlphaGo Zero
+
+https://medium.com/rossum/building-our-own-version-of-alphago-zero-b918642bd2b5
+
+4.Deep Reinforcement Learning Tutorial
+
+https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
+
+https://deepmind.com/blog/deep-reinforcement-learning/
+
+5.CS 294: Deep Reinforcement Learning, Fall 2018
+
+
+http://rail.eecs.berkeley.edu/deeprlcourse/
